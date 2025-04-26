@@ -1,0 +1,8 @@
+Each instance has a filename "short/deep_n_i.dat", in which short/deep indicates whether the trips are regional (short sea) or international (deep sea), n is the number of ports (including the depot), and i is the index of the instance in the same group.
+
+Line 1 - [# of customer, vehicle/vessel capacity, vehicle/vessel curb weight, speed lower limit, speed upper limit]
+Line 2 - demand at each customer
+Line 3 - early time window for each customer
+Line 4 - late time window for each customer
+Line 5 - service time at each customer
+From line 6 - distance matrix
